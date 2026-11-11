@@ -1,0 +1,23 @@
+{
+  "name": "AvaliacaoBack",
+  "version": "1.0.0",
+  "description": "avaliacao de back",
+  "homepage": "https://github.com/guilherme-ctrl-creator/AvaliacaoBack#readme",
+  "bugs": {
+    "url": "https://github.com/guilherme-ctrl-creator/AvaliacaoBack/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilherme-ctrl-creator/AvaliacaoBack"
+  },
+  "license": "ISC",
+  "author": "Guilherme Correia",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
